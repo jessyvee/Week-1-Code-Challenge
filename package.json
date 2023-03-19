@@ -1,0 +1,20 @@
+{
+  "name": "week-1-code-challenge",
+  "description": "",
+  "version": "1.0.0",
+  "main": "challenge1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessyvee/Week-1-Code-Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessyvee/Week-1-Code-Challenge/issues"
+  },
+  "homepage": "https://github.com/jessyvee/Week-1-Code-Challenge#readme"
+}
